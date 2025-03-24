@@ -13,8 +13,8 @@
 - [Limitations](#limitations)
 - [References](#references)
 
-### Project Overview
-This project aims to analyze student performance by examining various factors such as study hours, attendance rate, sleep patterns, and social media usage. By exploring correlations between these factors and academic performance (exam scores, assignment completion rates), we seek to uncover insights that can help students and educators improve learning outcomes.
+## Project Overview
+### This project aims to analyze student performance by examining various factors such as study hours, attendance rate, sleep patterns, and social media usage. By exploring correlations between these factors and academic performance (exam scores, assignment completion rates), we seek to uncover insights that can help students and educators improve learning outcomes.
 ---
 ### Data Source
 
