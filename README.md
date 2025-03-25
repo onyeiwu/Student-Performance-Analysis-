@@ -49,9 +49,33 @@ The dataset was cleaned by:
 - Ensuring all numerical values were in the correct format
 
 ## Exploratory Data Analysis
--
+EDA was performed to:
+- Understand the distribution of numerical and categorical variables
+- Identify outliers and anomalies
+- Visualize correlations between variables
+- Detect trends using histograms, barplots, piechart, group barchart and scatterplots
 
-### Data Analysis
+Key Visualizations:
+- Correlation heatmap – Identified relationships between variables
+- Distribution plots – Showed how exam scores varied with study hours and social media usage
+- Preferred learning styles - visual, kinesthetic, Auditory, Reading/ writing
+- Gender - Male, Female and other
+- Preferred learning styles and exam scores 
+
+## Data Analysis
+Key Research Questions:
+- How does study time impact student performance?
+- How does use of tech impact student performance?
+- Does social media usage negatively affect exam scores?
+- Is there a correlation between sleep hours and academic success?
+- Is there a correlation between sleep hours and Self-Reported Stress Level?
+- How does attendance rate influence exam performance?
+- How does learning styles impact student performance?
+
+Methods Used:
+- Correlation Analysis – To identify relationships between variables
+- Descriptive Statistics – Mean, median, standard deviation of key metrics
+- Data Visualizations – Heatmaps, bar charts, scatter plots, pie chart, group barchart
 
 ### Results/Findings
 
