@@ -70,17 +70,40 @@ Key Research Questions:
 - Is there a correlation between sleep hours and academic success?
 - Is there a correlation between sleep hours and Self-Reported Stress Level?
 - How does attendance rate influence exam performance?
-- How does learning styles impact student performance?
+- How does learning styles impact student performance (Final grade)?
 
 Methods Used:
 - Correlation Analysis – To identify relationships between variables
 - Descriptive Statistics – Mean, median, standard deviation of key metrics
 - Data Visualizations – Heatmaps, bar charts, scatter plots, pie chart, group barchart
 
-### Results/Findings
+## Results/Findings
+Key Findings:
+- Study hours have a weak positive correlation with exam scores (but not as strong as expected).
+- Learning style impact student performance.
+- Sleep duration shows a weak but noticeable impact on student performance (Final grade).
+- Attendance rate has a stronger impact on grades than online courses completed.
+- Use of Tech impact online courses completed.
+- Time spend on social impact student performance (Final grade).
 
-### Recommendations
+## Recommendations
+For Students:
+- Increase study hours, but focus on quality over quantity.
+- Reduce excessive social media use, especially before exams.
+- Maintain a healthy sleep schedule to improve cognitive function.
+- Prioritize class attendance to maximize learning.
 
-### Limitations
+For Educators:
+- Encourage active participation in assignments and classes.
+- Integrate digital learning tools for better engagement.
+- Educate students on the impact of sleep and social media habits.
+
+## Limitations
+- The dataset is relatively small (only 8 observations), which limits generalization.
+- The study does not account for external factors like personal motivation or teaching quality.
+- Correlation does not imply causation—further studies are needed.
 
 ### References
+```
+ (https://www.Kaggle.com).
+```
