@@ -15,15 +15,40 @@
 
 ## Project Overview
 
-#### This project aims to analyze student performance by examining various factors such as study hours, attendance rate, sleep patterns, and social media usage. By exploring correlations between these factors and academic performance (exam scores, assignment completion rates), we seek to uncover insights that can help students and educators improve learning outcomes.
----
-### Data Source
+This project aims to analyze student performance by examining various factors such as study hours, attendance rate, sleep patterns, and social media usage. By exploring correlations between these factors and academic performance (exam scores, assignment completion rates), we seek to uncover insights that can help students and educators improve learning outcomes.
 
-### Tools used in this analysis
+## Data Source
+The dataset used for this analysis contains student performance metrics, including:
+- Demographics (Age, Gender, Student_ID  )
+- Study Behavior (Study hours per week, online courses completed)
+- Performance Metrics (Assignment completion rate, Attendance rate, Participation in Discussions)
+- Lifestyle Factors (Time spent on social media per week, Use of Educational Tech )
+- Academic performance (Grades, Exam score)
+- Learning styles (Visual, Auditory, Kinesthetic, Reading/Writing)
+- Self Care (Self_Reported_Stress_Level, Sleep hours per night )
+  
+The dataset was sourced from 
+```
+ (https://www.Kaggle.com).
+```
 
-### Data Cleaning/Preparation 
+## Tools used in this analysis
+The Tools used in this analysis are as follows:
+- Python (Programming Language)
+- Pandas (Data manipulation)
+- NumPy (Numerical computations)
+- Matplotlib & Seaborn (Data visualization)
+- Jupyter Notebook / VS Code (Development environment)
 
-### Exploratory Data Analysis
+## Data Cleaning/Preparation 
+The dataset was cleaned by:
+- Removing missing or null values
+- Removing duplicate columns 
+- Replacing infinite values with appropriate values
+- Standardizing column names for consistency
+- Ensuring all numerical values were in the correct format
+
+## Exploratory Data Analysis
 
 ### Data Analysis
 
